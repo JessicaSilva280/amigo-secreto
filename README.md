@@ -39,6 +39,10 @@ Este projeto faz parte do curso de Iniciante em programação da parceria Alura 
 - `Funcionalidade 4`: Reiniciar o Jogo
 
 
+# :unlock: Acesso ao projeto 
+
+Você pode acessar o projeto através do link: (https://amigo-secreto-e6e81l0kb-jessicas-projects-b567016c.vercel.app/)
+
   
 
  # :computer: Tecnologias Utilizadas
